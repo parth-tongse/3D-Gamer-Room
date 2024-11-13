@@ -1,2 +1,4 @@
 # 3D-Gamer-Room
-Test Project for my resume.
+https://parth-tongse.github.io/3D-Gamer-Room/
+<br>
+<br> Test Project for my resume.
